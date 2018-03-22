@@ -102,8 +102,7 @@
 - ### Configure team
     - Go to [Account settings](https://dashboard.branch.io/account-settings/team) on the Branch Dashboard
     - Add and update team members to your Branch dashboard
-        - `Admin` = full access
-        - `Reports` = read reports only
+        - Set users' [dashboard permissions](/pages/dashboard/access-level)
 
 - ### Change advanced settings
     - Go to [Link Settings](https://dashboard.branch.io/link-settings) on the Branch Dashboard
