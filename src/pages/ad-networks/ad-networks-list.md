@@ -11,6 +11,7 @@ Logo | Partner
 <a href="http://adcolony.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/adcolony-1513204502834.png)</a>| **AdColony**
 <a href="http://adikteev.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/logo_adikteev-1513039903349.png)</a>| **Adikteev**
 <a href="http://admitad.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/logo-admitad-1493136873359.png)</a>| **Admitad**
+<a href="https://adsarmy.com/">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/ads_army-1521759654549.png)</a>| **Ads Army**
 <a href="http://adsterra.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/Adsterra-1508532651884.png)</a>| **Adsterra Network**
 <a href="http://affise.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/affisee-1513141472946.png)</a>| **Affise**
 <a href="http://appier.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/29291839342_73029de826_o-1496708152338.png)</a>| **Appier**
