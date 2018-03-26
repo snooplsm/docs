@@ -11,6 +11,7 @@ Branch offers hosted, branded short links packed with 3 key value props:
 <p align="center">
   <a href="https://youtu.be/MXgLQ8QDXk8"><img class="branch-image-override" src="https://i.imgur.com/NF2NEDn.gif"/></a>
 </p>
+
 <!-- 
 ## Getting started
 
