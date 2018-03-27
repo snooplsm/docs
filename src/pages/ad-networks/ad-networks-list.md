@@ -22,7 +22,8 @@ Logo | Partner
 <a href="http://avazuinc.com/home/">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/qwh3KVui-1519413087132.png)</a>| **Avazu**
 <a href="http://billymob.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/logo_blue-1500940117780.png)</a>| **Billy Mobile**
 <a href="https://www.centro.net/">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/YNhU8bk-1518047494337.png)</a>| **Centro**
- <a href="http://clickadu.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/cck-1508531144603.png)</a>| **Clickadu**
+<a href="http://www.cj.com/">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/CJ_Affiliate_Logo-1522097280231.png)</a>| **CJ Affiliate**
+<a href="http://clickadu.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/cck-1508531144603.png)</a>| **Clickadu**
 <a href="http://clickky.me">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/LogoClickky-1508351211926.png)</a>| **Clickky**
 <a href="http://connectedinteractive.com">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/top-logo1-1500342833490.png)</a>| **Connected Interactive**
 <a href="https://www.conversantmedia.com/">![image](https://cdn.branch.io/branch-assets/ad-partner-manager/small_logo-1512691620790.png)</a>| **Conversant Media**
