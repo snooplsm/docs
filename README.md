@@ -151,9 +151,19 @@
 
     - add locally `pip install --editable lib/mkdocs`
 
-    - remove locally `sudo rm /usr/local/bin/mkdocs && rm /Library/Python/2.7/site-packages/mkdocs.egg-link`
+- ####  Mkdocs Fix
 
-    - remove mkdocs `rm -rf /Library/Python/2.7/site-packages`
+    - remove mkdocs `sudo rm -rf /usr/local/bin/mkdocs`
+    
+    - remove mkdocs link `rm -rf /Library/Python/2.7/site-packages/mkdocs.egg-link`
+
+    - remove pip `rm -rf /Library/Python/2.7/site-packages`
+    
+    - reinstall `pip curl https://bootstrap.pypa.io/get-pip.py > a.py && chmod -x a.py && sudo ./a.py`
+    
+    - reinstall [dependencies](#dependencies)
+    
+    - run [develop](#evelop)
 
 - #### Mkdocs-Material Locally
 
