@@ -3010,7 +3010,7 @@ target <span class="s1">&#39;APP_NAME&#39;</span> <span class="k">do</span>
 <span class="p">}</span>
 
 <span class="p">-</span> <span class="p">(</span><span class="kt">BOOL</span><span class="p">)</span><span class="nf">application:</span><span class="p">(</span><span class="bp">UIApplication</span> <span class="o">*</span><span class="p">)</span><span class="nv">app</span> <span class="nf">openURL:</span><span class="p">(</span><span class="bp">NSURL</span> <span class="o">*</span><span class="p">)</span><span class="nv">url</span> <span class="nf">options:</span><span class="p">(</span><span class="bp">NSDictionary</span><span class="o">&lt;</span><span class="n">UIApplicationOpenURLOptionsKey</span><span class="p">,</span><span class="kt">id</span><span class="o">&gt;</span> <span class="o">*</span><span class="p">)</span><span class="nv">options</span> <span class="p">{</span>
-<span class="hll">  <span class="c1">// handler for URI Schemes (depreciated in iOS 9.2+, but still used by some apps)</span>
+<span class="hll">  <span class="c1">// handler for URI Schemes (deprecated in iOS 9.2+, but still used by some apps)</span>
 </span><span class="hll">  <span class="p">[[</span><span class="n">Branch</span> <span class="n">getInstance</span><span class="p">]</span> <span class="nl">application</span><span class="p">:</span><span class="n">app</span> <span class="nl">openURL</span><span class="p">:</span><span class="n">url</span> <span class="nl">options</span><span class="p">:</span><span class="n">options</span><span class="p">];</span>
 </span>  <span class="k">return</span> <span class="nb">YES</span><span class="p">;</span>
 <span class="p">}</span>
