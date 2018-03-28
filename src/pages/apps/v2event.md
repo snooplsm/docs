@@ -546,3 +546,23 @@ curl -vvv -d '{
 ```
 
 See [full API docs here](https://github.com/BranchMetrics/branch-deep-linking-public-api#logging-custom-events).
+
+## Testing
+
+!!! Note
+    Be sure that you are viewing our updated Dashboard using [People-Based Attribution](/pages/dashboard/people-based-attribution/). Otherwise you will not see events tracked using logEvent() or v2/event.
+
+After implementing event tracking, you should verify that the SDK and API calls are working as intended. There are a few places you should expect to see events tracked with v2/event, shown in the table below.
+
+| **Branch feature** | **Events included** |
+| - | - |
+| [Dashboard visualizations](https://dashboard.branch.io/){:target="\_blank"} | Only attributed events |
+| [Query API](/pages/exports/query-api/) | All |
+| [Liveview](https://dashboard.branch.io/liveview){:target="\_blank"} | All |
+| [Data Export API](/pages/exports/api-v3/) | All |
+| [CSV Exports](https://branch.dashboard.branch.io/data-import-export/csv-exports){:target="\_blank"} | All |
+| [Webhooks](/pages/exports/ua-webhooks/) | All |
+| [Data Integrations](/pages/integrations/data-integrations/) | Only attributed events |
+
+We highly suggest testing with [Liveview](https://dashboard.branch.io/liveview){:target="\_blank"}. Then you can view all events, including non-attributed events.
+

@@ -264,7 +264,7 @@ The first two sections below covers common causes of discrepancies: attribution 
 
 An attribution window is the maxiumum amount of time between an initial action (click or impression) and a conversion event (install or open) for which you attribute that conversion event as occuring _because of_ that initial action.
 
-Example with 3 day view attribution window: If a user views your ad and 2 days later installs your app, that install would be attributed to that ad view. However if the user views your ad and 4 days later installs the app, that install would be considered an organic install and would NOT be attributed to that ad view.  You can read more in our documentation [here](/pages/dashboard/unified-analytics/#attribution-windows)
+Example with 3 day view attribution window: If a user views your ad and 2 days later installs your app, that install would be attributed to that ad view. However if the user views your ad and 4 days later installs the app, that install would be considered an organic install and would NOT be attributed to that ad view.  You can read more in our documentation [here](/pages/dashboard/people-based-attribution/#attribution-windows)
 
 If one of your attribution windows on the Branch dashboard is different than the corresponding window on the Facebook dashboard, the data between the two will not align. You can mitigate this by changing one of more of your attribution windows on the Branch dashboard, or changing your Facebook dashboard for the given ad account.
 
