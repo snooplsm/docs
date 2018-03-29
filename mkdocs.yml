@@ -151,6 +151,7 @@ pages:
     - Braze (formerly Appboy): pages/emails/braze.md
     - Bronto: pages/emails/bronto.md
     - Campaign Monitor: pages/emails/campaign-monitor.md
+    - Cheetah Digital Marketing Suite: pages/emails/cheetah-digital-marketing-suite.md
     - Epsilon: pages/emails/epsilon.md
     - Kahuna: pages/emails/kahuna.md
     - Leanplum: pages/emails/leanplum.md
@@ -231,4 +232,3 @@ pages:
     - New Data Integrations: pages/integrations/faq.md
     - Ad Networks List: pages/ad-networks/ad-networks-list.md
     - Facebook FAQ and Advanced Options: pages/deep-linked-ads/facebook-ads-faq.md
-    - Access level: pages/dashboard/access-level.md
