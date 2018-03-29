@@ -15,6 +15,9 @@
   .branch-header-subtitle {
     display: none;
   }
+  .md-header-nav__topic {
+    display: none;
+  }
 }
 
 
