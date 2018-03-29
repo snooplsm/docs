@@ -54,7 +54,7 @@ branch.initSession.....
 
 ### View Attribution on Dashboard
 
-All the attribution can be visible on the [Branch dashboard summary page](https://dashboard.branch.io/). All installs and opens registered from this channel will automatically be tagged with the `channel`: `Apple App Store` and the `feature`: `Search Ads`. The `campaign` will be set to the Campaign Name you've configured in the Apple Search Ads dashboard.
+All the attribution can be visible on the [Branch dashboard summary page](https://dashboard.branch.io/). All installs and opens registered from this channel will automatically be tagged with the `channel`: `Apple App Store` and the `Ad Partner`: `Apple Search Ads`. The `campaign` will be set to the Campaign Name you've configured in the Apple Search Ads dashboard.
 
 - Installs might not be accurate, but installs + open events should match what Apple reports
 - Due to API limitations, it may take up to 30 days for full attribution of a device
