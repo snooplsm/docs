@@ -123,6 +123,9 @@
 
     - Prevent search results by adding production url to `stop_urls` ([config](https://github.com/algolia/docsearch-configs/blob/master/configs/branchmetrics.json))
 
+- #### Redirection
+    - Add `<script>window.location = "/pages/dashboard/people-based-attribution"</script>` to the top of the file
+
 ## Additional
 
 - #### Resources
