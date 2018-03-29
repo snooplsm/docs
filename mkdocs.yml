@@ -232,3 +232,4 @@ pages:
     - New Data Integrations: pages/integrations/faq.md
     - Ad Networks List: pages/ad-networks/ad-networks-list.md
     - Facebook FAQ and Advanced Options: pages/deep-linked-ads/facebook-ads-faq.md
+    - Access Level: pages/dashboard/access-level.md
